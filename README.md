@@ -8,4 +8,4 @@ https://elasticsearch.cn/explore
 https://develoer.github.com/v3/guides/managing-deploy-keys/#deploy-key
 
 ##工具 
-https://git-scm.com/download
+https://git-scm.com/downlo/ad
